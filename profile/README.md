@@ -1,6 +1,6 @@
 # GeoSyn Team
 
-**Repositório do grupo de pesquisa LabGeo**, coordenado pelos professores
+**Repositório do LabGeo, grupo de pesquisa do Ifes Campus de Alegre**, coordenado pelos professores
 **Jeferson Luiz Ferrari** e **Salomão**.
 
 Aqui ficam guardados, versionados e publicados os produtos técnico-científicos
@@ -46,8 +46,14 @@ Nacional e na Assembleia Legislativa do Espírito Santo.
 
 ---
 
+## Responsável e contato
+
+**Cristiano da Silveira Colombo** ([@cscolomboIA](https://github.com/cscolomboIA)) é o
+responsável por esta organização. Pedidos de acesso aos repositórios, de uso dos
+materiais e de parceria devem ser encaminhados a ele.
+
 ## Para integrantes do grupo
 
-- Peça acesso a quem administra a organização, informando seu usuário do GitHub.
+- Para obter acesso, informe ao responsável o seu usuário do GitHub.
 - Funciona tanto pelo terminal quanto pelo **VS Code** (botão *Sign in with GitHub*).
 - Cada repositório tem um `README.md` explicando como contribuir.
